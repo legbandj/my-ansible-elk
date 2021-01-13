@@ -1,0 +1,10 @@
+# define each node type
+elasticsearch_nodes:
+  - elasticv01.localdomain
+
+logstash_nodes:
+  - logstashv01.localdomain
+  - logstashv02.localdomain
+
+kibana_nodes:
+  - kibanav01.localdomain
